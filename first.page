@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+  </head>    
+ <body>
+   <h1>Trying A New Enviroment!</h1>
+    <div class="row">
+     <margin: 0 auto;>
+     <div class="column">
+     <p>I changed some things</p>
+     <ol>
+      <li>I did some additional formatting</li>
+      <li>changed up some fonts</li>
+     </ol>
+     </div>
+     <div class="column">
+     <p>And I kept some things</p>
+     <ol>
+      <li>I liked the colors</li>
+      <li>I liked my special border</li>
+     </ol>
+     </div>
+    </div>
+    <h2>Resources Used:</h2>
+    <div class="source-nav">
+    <ul>
+     <li><a href:"https://www.w3schools.com/html/default.asp">HTML Resources</a></li>
+     <li><a href:"https://www.w3schools.com/css/default.asp">CSS Resources</a></li>
+    </ul>
+    </div>
+ </body>
+</html>
